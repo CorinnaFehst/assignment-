@@ -1,0 +1,174 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         142
+	Longest value:         7 characters
+	Most common values:    R000585 (8x)
+	                       C001108 (7x)
+	                       H001058 (7x)
+	                       M001184 (7x)
+	                       F000460 (6x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         143
+	Longest value:         35 characters
+	Most common values:    HON. TOM REED (8x)
+	                       HON. JAMES COMER (7x)
+	                       HON. BILL HUIZENGA (7x)
+	                       HON. BLAKE FARENTHOLD (6x)
+	                       HON. EVAN H. JENKINS (6x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (341x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (338x)
+	                       WOUNDED WARRIOR EXPENSES (2x)
+	                       ADMIN AND OPS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (341x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         65
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-02-08 (12x)
+	                       2017-02-10 (11x)
+	                       2017-03-10 (10x)
+	                       2017-01-12 (10x)
+	                       2017-02-16 (10x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (341x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         325
+	Longest value:         8 characters
+	Most common values:    E0495403 (3x)
+	                       901918 (3x)
+	                       E0488757 (2x)
+	                       E0494002 (2x)
+	                       E0477336 (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         225
+	Longest value:         29 characters
+	Most common values:    MCCANE CHRISTOPHER (5x)
+	                       OTT ALAN J. (4x)
+	                       KATICH III STEVE J. (4x)
+	                       GAULT WILLIAM F. (4x)
+	                       BRYANT MICHAEL F. (3x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         92
+	Smallest value:        2014-04-03
+	Largest value:         2017-03-02
+	Most common values:    2017-01-03 (38x)
+	                       2017-02-01 (37x)
+	                       2016-12-01 (26x)
+	                       2017-02-03 (18x)
+	                       2017-02-02 (17x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         90
+	Smallest value:        2014-04-25
+	Largest value:         2017-11-28
+	Most common values:    2017-02-28 (40x)
+	                       2017-01-31 (36x)
+	                       2017-01-30 (25x)
+	                       2017-02-27 (18x)
+	                       2017-01-27 (13x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         20 characters
+	Most common values:    PRIVATE AUTO MILEAGE (341x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         331
+	Smallest value:        500.76
+	Largest value:         1,452.6
+	Sum:                   236,197.33
+	Mean:                  692.661
+	Median:                632.15
+	StDev:                 191.701
+	Most common values:    507.15 (2x)
+	                       775.98 (2x)
+	                       526.5 (2x)
+	                       567.1 (2x)
+	                       593.46 (2x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3
+	Smallest value:        2,014
+	Largest value:         2,017
+	Sum:                   687,670
+	Mean:                  2,016.628
+	Median:                2,017
+	StDev:                 0.568
+	Most common values:    2,017 (224x)
+	                       2,016 (112x)
+	                       2,014 (5x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         225
+	Longest value:         29 characters
+	Most common values:    MCCANE CHRISTOPHER (5x)
+	                       OTT ALAN J. (4x)
+	                       KATICH III STEVE J. (4x)
+	                       GAULT WILLIAM F. (4x)
+	                       BRYANT MICHAEL F. (3x)
+
+Row count: 341

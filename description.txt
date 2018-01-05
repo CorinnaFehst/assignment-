@@ -1,0 +1,1 @@
+My analysis shows all items of 'Private Auto Mileage' which are larger than USD 500. There are 341 such items, with max entries being as high as USD 1200-1400
